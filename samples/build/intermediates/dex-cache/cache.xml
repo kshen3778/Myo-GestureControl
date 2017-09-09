@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Kevin\Desktop\myo-android-sdk-0.10.0\samples\Background\build\intermediates\exploded-aar\com.thalmic\myosdk\0.10.0\libs\native-libs.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="d24ac9790966ffbd1bd9d921a262572c94903027">
+        <dex dex="C:\Users\Kevin\Desktop\myo-android-sdk-0.10.0\samples\Background\build\intermediates\pre-dexed\debug\native-libs-4ba329846858b634135d62cb10d41247b43a44be.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kevin\Desktop\myo-android-sdk-0.10.0\samples\MultipleMyos\build\intermediates\exploded-aar\com.thalmic\myosdk\0.10.0\libs\native-libs.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="d24ac9790966ffbd1bd9d921a262572c94903027">
+        <dex dex="C:\Users\Kevin\Desktop\myo-android-sdk-0.10.0\samples\MultipleMyos\build\intermediates\pre-dexed\debug\native-libs-9c7087fe1e65fe27e00381c9276c30017126e0f7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kevin\Desktop\myo-android-sdk-0.10.0\samples\Background\build\intermediates\exploded-aar\com.thalmic\myosdk\0.10.0\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="d189db75174a41996c33bb243d2228aacf10fa53">
+        <dex dex="C:\Users\Kevin\Desktop\myo-android-sdk-0.10.0\samples\Background\build\intermediates\pre-dexed\debug\classes-46998728404fb84fad2c39abc77c7ff1923838d4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kevin\Desktop\myo-android-sdk-0.10.0\samples\MultipleMyos\build\intermediates\exploded-aar\com.thalmic\myosdk\0.10.0\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="d189db75174a41996c33bb243d2228aacf10fa53">
+        <dex dex="C:\Users\Kevin\Desktop\myo-android-sdk-0.10.0\samples\MultipleMyos\build\intermediates\pre-dexed\debug\classes-2880bfebd57342e076062d50c6563919b782dc80.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kevin\Desktop\myo-android-sdk-0.10.0\samples\HelloWorld\build\intermediates\exploded-aar\com.thalmic\myosdk\0.10.0\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="d189db75174a41996c33bb243d2228aacf10fa53">
+        <dex dex="C:\Users\Kevin\Desktop\myo-android-sdk-0.10.0\samples\HelloWorld\build\intermediates\pre-dexed\debug\classes-0fa72cd9b6d3164622a0b6083fbbaa0a756c79b1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kevin\Desktop\myo-android-sdk-0.10.0\samples\HelloWorld\build\intermediates\exploded-aar\com.thalmic\myosdk\0.10.0\libs\native-libs.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="d24ac9790966ffbd1bd9d921a262572c94903027">
+        <dex dex="C:\Users\Kevin\Desktop\myo-android-sdk-0.10.0\samples\HelloWorld\build\intermediates\pre-dexed\debug\native-libs-2d46727258feffadf2b5b7ac8dd5f6e3ec44e354.jar" />
+    </item>
+
+</items>
